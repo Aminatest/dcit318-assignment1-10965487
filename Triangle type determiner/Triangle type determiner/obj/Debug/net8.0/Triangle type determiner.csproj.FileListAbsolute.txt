@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\bin\Debug\net8.0\Triangle type determiner.exe
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\bin\Debug\net8.0\Triangle type determiner.deps.json
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\bin\Debug\net8.0\Triangle type determiner.runtimeconfig.json
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\bin\Debug\net8.0\Triangle type determiner.dll
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\bin\Debug\net8.0\Triangle type determiner.pdb
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.AssemblyInfo.cs
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.sourcelink.json
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.dll
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\refint\Triangle type determiner.dll
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.pdb
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\Triangle type determiner.genruntimeconfig.cache
+C:\Users\PC\Downloads\dcit318-assignment-10965487\Triangle type determiner\Triangle type determiner\obj\Debug\net8.0\ref\Triangle type determiner.dll

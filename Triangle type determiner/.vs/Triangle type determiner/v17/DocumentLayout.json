@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\dcit318-assignment-10965487\\Triangle type determiner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62C5893-F7B9-4E89-9E23-624DF26DF512}|Triangle type determiner\\Triangle type determiner.csproj|c:\\users\\pc\\downloads\\dcit318-assignment-10965487\\triangle type determiner\\triangle type determiner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62C5893-F7B9-4E89-9E23-624DF26DF512}|Triangle type determiner\\Triangle type determiner.csproj|solutionrelative:triangle type determiner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\dcit318-assignment-10965487\\Triangle type determiner\\Triangle type determiner\\Program.cs",
+              "RelativeDocumentMoniker": "Triangle type determiner\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\dcit318-assignment-10965487\\Triangle type determiner\\Triangle type determiner\\Program.cs",
+              "RelativeToolTip": "Triangle type determiner\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:11:08.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
